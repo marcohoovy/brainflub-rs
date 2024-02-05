@@ -1,0 +1,16 @@
+[package]
+name = "brainfuck-rs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "brainfuck_sys"
+path = "src/lib.rs"
+
+[[bin]]
+name = "brainfuck"
+path = "src/bin.rs"
+
+[dependencies]
+anyhow = "1.0.79"
+ascii = "1.1.0"
