@@ -1,4 +1,4 @@
-# Brainfuck-rs
+# Brainflub-rs
 
 Have a look at the [Brainfuck wikipedia page](https://en.wikipedia.org/wiki/Brainfuck) to see what brainfuck is.
 
